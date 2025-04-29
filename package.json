@@ -1,7 +1,7 @@
 {
   "name": "eman-json-server",
   "version": "1.0.0",
-  "main": "index.js"
+  "main": "index.js",
   "scripts": {
     "start": "json-server --watch db.json --host 0.0.0.0"
   },
